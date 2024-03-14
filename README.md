@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in electronic and PCB design, embedded computing, 3D printing and a lot more !
 - 🌱 I’m currently learning HTML, CSS.
-- 💻 Skills: Python, C, Arduino, VHDL, Java.
+- 💻 Skills: Python, C, VHDL, Java, ATMEGA AVR, STM32.
 - 🚀 Check out my projects on [GitHub](https://github.com/Scruchet).
 - 🎓 Studying Electronic and Embedded computing in the Engineering school at Polytech Lille (France).
 - 🎮 Hobbies: Gaming, DIY electronics projects, comics, gardening.
