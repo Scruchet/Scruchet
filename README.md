@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- 👀 I’m interested in electronic,PCB design, embedded computing, 3D printing and a lot more !
+- 👀 I’m interested in electronic, PCB design, embedded computing, 3D printing and a lot more !
 - 🌱 I’m currently learning HTML, CSS.
 - 💻 Skills: Python, C, VHDL, Java, ATMEGA AVR, STM32.
 - 🚀 Check out my projects on [GitHub](https://github.com/Scruchet).
