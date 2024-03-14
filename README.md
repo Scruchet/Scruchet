@@ -6,12 +6,10 @@
 - 🚀 Check out my projects on [GitHub](https://github.com/Scruchet).
 - 🎓 Studying Electronic and Embedded computing in the Engineering school at Polytech Lille (France).
 - 🎮 Hobbies: Gaming, DIY electronics projects, comics, gardening.
-- 🎯 Goals: Seeking opportunities to contribute to embedded systems projects.
+- 🎯 Goals: Seeking opportunities to contribute to embedded systems/ IoT projects.
 - 📧 Email: cruchetsimon@gmail.com.
 - 👔 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/simoncruchet/).
 
-## Looking for Internship!
-I'm actively seeking an internship. [Click here](https://www.linkedin.com/feed/update/urn:li:activity:7147911920853929984/) for more details.
 
 Feel free to reach out if you have any opportunities or would like to connect!
 
